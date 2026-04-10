@@ -1,1 +1,1 @@
-![MushuPatcher](Small.ico)
+Small.ico
